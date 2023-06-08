@@ -1,0 +1,223 @@
+/* body {
+    width:1000px;
+    margin:0 auto;
+ } */
+
+.section 
+{
+    display: table;
+}
+
+.button {
+     background-color: rgba(101, 45, 144, 1);
+    border: none;
+    color: white;
+    padding: 6px 12px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px;
+    cursor: pointer;
+    border-radius: 4px;
+    display:table;
+}
+
+.arw{
+    padding-right: 20px;
+}
+
+.pass{
+    padding-top: 15px;
+    padding-left: 15px;
+
+}
+
+.bg{
+    background-color: pink;
+    padding:4px;
+    padding-left:17px;
+}
+
+.passenger{
+    color: blue;
+}
+
+h4{
+    padding-left: 15px;
+    color:grey;
+
+}
+
+/* p{
+    font-family: 'Poppins';
+    padding-top:12px;
+    padding-left:12px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    color: #000000;
+} */
+.page-content 
+  {
+      flex:auto;
+       padding-top: 20px; 
+       padding: 10px;
+       line-break:auto;
+       /* line-height: 0cm; */
+}
+     
+table 
+{
+        font-family: Arial, Helvetica, sans-serif;
+         border-collapse: collapse; 
+        width: 95%;
+        margin-left: 50px;
+        margin-right: 300px;
+}
+      
+td,th 
+{
+        border: 1px solid #ddd;
+        padding: 10px;
+}
+      
+tr:nth-child(even)
+{
+        background-color: #f2f2f2;
+}
+      
+tr:hover 
+{
+        background-color: #ddd;
+}
+      
+th 
+{
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color:white;
+        color:black;
+}
+
+
+.c
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 73%;
+    background-color:white;
+}
+
+.rg{
+    border: opx solid #ddd;
+    padding: 12px;
+  }
+.table1:nth-child(even){background-color: #f2f2f2;}
+.table1:hover {background-color: #ddd;}
+
+
+.flexbox{
+
+    padding: 10px;
+
+    border-color: 1px solid black;
+
+    display: flex;
+
+    margin-left:15px;
+
+    flex-wrap: wrap;
+
+}
+
+.flexpara{
+
+   
+
+    color:black;
+
+}
+
+
+
+
+.button-pill{
+
+   
+
+    background-color: rgba(222, 118, 174, 1);
+
+    border: none;
+
+    color:#000000;
+
+    margin-left: 15px;
+
+    margin-bottom: 10px;
+
+    cursor: pointer;
+
+    border-radius:16px;
+
+  }
+
+
+
+
+  .button-pill2{
+
+   
+
+    background-color: rgba(119, 208, 144, 1);
+
+    border: none;
+
+    color:rgba(255, 255, 255, 1);
+
+    margin-left: 15px;
+
+    margin-bottom: 10px;
+
+    cursor: pointer;
+
+    border-radius:16px;
+
+  }
+
+
+
+
+ 
+
+  .reload{
+
+    margin-left:930px;
+
+  }
+
+  .delete{
+
+    margin-left: 20px;
+
+  }
+
+  .green{
+
+    margin-left:44px;
+
+    padding-bottom:10px;
+
+  }
+
+  .page{
+   background-color: red;
+   height: 200px;
+  }
+.container{
+    font-size: 24px;
+}
+ 
+
+ 
